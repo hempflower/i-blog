@@ -1,7 +1,7 @@
 ---
 title: 'CleverFoc 开发记录: 规划'
 date: 2023-04-21 19:27:52
-tags: 技术,foc,cleverfoc
+tags: [技术,foc,cleverfoc]
 ---
 
 ## 背景
