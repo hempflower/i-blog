@@ -9,7 +9,7 @@ description: 更新看心情，内容看心情
 keywords: Blog,mcskin,红石皮肤站
 author: Evan Xiao
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
